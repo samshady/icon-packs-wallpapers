@@ -1,0 +1,22 @@
+Wallpaper Collection Analysis
+Generated: 2026-05-09 23:23:36
+Source: Google Drive JSON manifest
+
+Summary:
+- Total wallpapers: 275
+- Apple wallpapers: 256
+- Unsplash wallpapers: 19
+- Unique names: 255
+
+Copyright breakdown:
+  Apple: 256
+  Unsplash: 19
+
+Author breakdown:
+  Apple: 255 entries
+  Unsplash: 20 entries
+
+Sample entries:
+  - iPhone 12 Pro (1) through iPhone 12 Pro (8)
+  - iPhone 13 (1) through iPhone 13 (12)
+  - Various Unsplash photos
