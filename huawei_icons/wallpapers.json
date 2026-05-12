@@ -1,79 +1,261 @@
 [
   {
+    "name": "emui_mate_xs_1",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_1.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_1.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_2",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_2.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_2.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_3",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_3.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_3.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_4",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_4.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_4.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_5",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_5.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_5.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_6",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_6.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_6.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_7",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_7.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_7.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_mate_xs_8",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_8.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_mate_xs_8.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_1",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_1.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_1.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_10",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_10.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_10.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_11",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_11.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_11.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_12",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_12.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_12.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_13",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_13.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_13.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_14",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_14.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_14.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_15",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_15.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_15.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_16",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_16.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_16.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_17",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_17.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_17.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_18",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_18.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_18.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_2",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_2.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_2.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_3",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_3.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_3.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_4",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_4.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_4.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_5",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_5.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_5.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_6",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_6.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_6.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_7",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_7.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_7.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_8",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_8.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_8.webp",
+    "copyright": "Huawei"
+  },
+  {
+    "name": "emui_p40_pro_9",
+    "author": "Huawei",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_9.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/emui_p40_pro_9.webp",
+    "copyright": "Huawei"
+  },
+  {
     "name": "honor_1",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_1.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_1.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_10",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_10.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_10.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_11",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_11.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_11.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_2",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_2.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_2.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_3",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_3.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_3.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_4",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_4.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_4.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_5",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_5.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_5.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_6",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_6.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_6.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_7",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_7.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_7.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_8",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_8.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_8.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   },
   {
     "name": "honor_9",
-    "author": "Honor",
+    "author": "Huawei",
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_9.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/huawei_icons/wallpapers/honor_9.webp",
-    "copyright": "Honor"
+    "copyright": "Huawei"
   }
 ]
