@@ -1944,5 +1944,222 @@
     "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios17_7575_titanium_natural_d84_dark.webp",
     "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios17_7575_titanium_natural_d84_dark.webp",
     "copyright": "Apple"
+  },
+  {
+    "name": "ios26_sky_home_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_home_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_home_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_sky_home_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_home_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_home_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_sky_lock_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_lock_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_lock_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_sky_lock_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_lock_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_sky_lock_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_shadow_home_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_home_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_home_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_shadow_home_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_home_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_home_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_shadow_lock_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_lock_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_shadow_lock_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_halo_home_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_home_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_home_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_halo_home_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_home_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_home_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_halo_lock_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_lock_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_lock_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_halo_lock_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_lock_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_halo_lock_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_dusk_home_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_home_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_home_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_dusk_home_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_home_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_home_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_dusk_lock_light",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_lock_light.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_lock_light.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "ios26_dusk_lock_dark",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_lock_dark.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/ios26_dusk_lock_dark.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16pro_desert_titanium",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_desert_titanium.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_desert_titanium.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16pro_white_titanium",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_white_titanium.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_white_titanium.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16pro_black_titanium",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_black_titanium.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16pro_black_titanium.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16_ultramarine",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_ultramarine.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_ultramarine.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16_teal",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_teal.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_teal.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16_pink",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_pink.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_pink.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16_white",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_white.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_white.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone16_black",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_black.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone16_black.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17pro_cosmic_orange_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_cosmic_orange_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_cosmic_orange_lock.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17pro_cosmic_orange_home",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_cosmic_orange_home.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_cosmic_orange_home.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17pro_deep_blue_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_deep_blue_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17pro_deep_blue_lock.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17_lavender_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_lavender_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_lavender_lock.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17_sage_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_sage_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_sage_lock.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17_mist_blue_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_mist_blue_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_mist_blue_lock.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17_white_home",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_white_home.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_white_home.webp",
+    "copyright": "Apple"
+  },
+  {
+    "name": "iphone17_black_lock",
+    "author": "Apple",
+    "url": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_black_lock.webp",
+    "thumbnail": "https://raw.githubusercontent.com/samshady/icon-packs-wallpapers/main/ios_icons/wallpapers/iphone17_black_lock.webp",
+    "copyright": "Apple"
   }
 ]
