@@ -1,4 +1,16 @@
+# Files in this repository are stored as normal Git blobs, NOT via Git LFS.
+#
+# History: an LFS migration was started in May 2026 but never applied to the
+# files - only this attribute file was committed. Declaring `filter=lfs` while
+# the blobs are raw makes git run `git-lfs clean` on every file and see a
+# difference that does not exist, so `git status` reported all 1,209 wallpapers
+# as modified and a careless `git add -A` would have replaced every image with a
+# 132-byte pointer.
+# The attribute is removed so the repository tells the truth about how it stores
+# files. See docs/setup/IOSICONS_WALLPAPER_AUDIT.md for the full investigation.
+# Before switching to LFS for real, note that the apps fetch wallpapers from
+# raw.githubusercontent.com, which serves the LFS *pointer* rather than the
+# image. Moving to LFS therefore requires every wallpaper URL in every
+# wallpapers.json to move to media.githubusercontent.com, plus a release of all
+# eight apps. Verified empirically, not assumed.
 *.webp filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
